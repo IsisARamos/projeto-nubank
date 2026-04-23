@@ -1,1 +1,9 @@
-projeto desenvolvido com HTML, e CSS, básico para iniciantes que tenham interesse em aprender o básisco para criar seu site de banco!
+# Projeto Nubank 💜
+
+Clone da página inicial do Nubank feito com HTML e CSS puro.
+
+## 📸 Preview
+
+![Home](./screenshots/nu.png)
+![Home](./screenshots/nu2.png)
+![Home](./screenshots/nu3.png)
